@@ -1,0 +1,13 @@
+{
+  "name": "@g-jackson/howtonpm",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "g-jackson",
+  "license": "ISC",
+  "description": "npm test module",
+  "repository": "test.test.com",
+  "dependencies": {}
+}

@@ -1,0 +1,32 @@
+JS
+========================
+Nodeschool Core
+    - elementary electron
+
+Nodeschool Electives
+    - functional 
+    - expressworks
+    - bug clinic
+    - promise it wont hurt
+    - async you
+    - count to 6
+    - planet proto
+    - going native
+    - esnext generation
+    - test anything
+    - tower of babel
+    - perfschool
+    - learnyoumongo
+    - web audio school
+    - post mortem debugging
+    - currying
+    - best practices
+    - Scope chains and closures
+
+Done
+========================
+Nodeschool Core
+    - javascripting
+    - learn you node
+    - how to npm
+    - stream adventure
