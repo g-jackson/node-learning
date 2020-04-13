@@ -1,10 +1,7 @@
 JS
 ========================
-Nodeschool Core
-    - elementary electron
-
 Nodeschool Electives
-    - functional 
+    - functional
     - expressworks
     - bug clinic
     - promise it wont hurt
@@ -30,3 +27,4 @@ Nodeschool Core
     - learn you node
     - how to npm
     - stream adventure
+    - elementary electron
