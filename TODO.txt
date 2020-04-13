@@ -3,7 +3,6 @@ JS
 Nodeschool Electives
     - functional
     - expressworks
-    - bug clinic
     - promise it wont hurt
     - async you
     - count to 6
@@ -15,7 +14,6 @@ Nodeschool Electives
     - perfschool
     - learnyoumongo
     - web audio school
-    - post mortem debugging
     - currying
     - best practices
     - Scope chains and closures
@@ -28,3 +26,4 @@ Nodeschool Core
     - how to npm
     - stream adventure
     - elementary electron
+    - bug clinic
